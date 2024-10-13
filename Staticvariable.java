@@ -12,6 +12,7 @@ void show()
     System.out.println("value of b = "+b);
     int c =a;
     System.out.println("value of static variable c inside show function  = "+c);
+    
 } 
    public static void main(String[] args)
     {
